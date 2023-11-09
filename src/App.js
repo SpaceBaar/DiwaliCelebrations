@@ -44,7 +44,7 @@ function App() {
         />
       )}
       <h3 className="text-yellow-400 font-semibold text-center pb-14 md:pb-4">
-      💛 From Mukka Deepak
+      💛 From Ashitosh Yadav
       </h3>
     </div>
   );
